@@ -9,10 +9,10 @@
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="177" y="40" width="12" height="16" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="#" id="35" x="3" y="69" width="240" height="67" xoffset="0" yoffset="0" padding="0" xadvance="240" page="0" chnl="0"/>
-<char character="$" id="36" x="170" y="46" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
+<char character="$" id="36" x="9" y="140" width="85" height="26" xoffset="0" yoffset="0" padding="0" xadvance="85" page="0" chnl="0"/>
 <char character="%" id="37" x="111" y="15" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="&amp;" id="38" x="81" y="37" width="13" height="13" xoffset="0" yoffset="0" padding="0" xadvance="13" page="0" chnl="0"/>
-<char character="&apos;" id="39" x="179" y="47" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="&apos;" id="39" x="151" y="43" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="(" id="40" x="234" y="0" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character=")" id="41" x="240" y="0" width="7" height="16" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="*" id="42" x="177" y="16" width="13" height="16" xoffset="0" yoffset="0" padding="0" xadvance="13" page="0" chnl="0"/>
@@ -99,7 +99,7 @@
 <char character="~" id="126" x="1" y="34" width="72" height="30" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
 <char character="誠" id="35488" x="158" y="15" width="14" height="16" xoffset="0" yoffset="1" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="À" id="192" x="216" y="40" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="Â" id="194" x="172" y="39" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="Â" id="194" x="17" y="199" width="77" height="17" xoffset="0" yoffset="0" padding="0" xadvance="77" page="0" chnl="0"/>
 <char character="Ä" id="196" x="216" y="37" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="Æ" id="198" x="178" y="45" width="12" height="16" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="Ç" id="199" x="169" y="46" width="9" height="17" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
@@ -110,11 +110,11 @@
 <char character="Î" id="206" x="179" y="42" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="Ï" id="207" x="179" y="40" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="Ô" id="212" x="185" y="43" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="Ö" id="214" x="156" y="46" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="Ö" id="214" x="9" y="168" width="85" height="26" xoffset="0" yoffset="0" padding="0" xadvance="85" page="0" chnl="0"/>
 <char character="Ù" id="217" x="223" y="37" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="Û" id="219" x="194" y="44" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="Ü" id="220" x="193" y="43" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="ß" id="223" x="167" y="48" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="ß" id="223" x="151" y="39" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="à" id="224" x="211" y="40" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="â" id="226" x="167" y="43" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="ä" id="228" x="197" y="45" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
