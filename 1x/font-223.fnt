@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-223.png"/>
 </pages>
-<chars count="91">
+<chars count="92">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="192" y="24" width="3" height="13" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="#" id="35" x="243" y="5" width="10" height="13" xoffset="0" yoffset="0" padding="0" xadvance="10" page="0" chnl="0"/>
@@ -65,6 +65,7 @@
 <char character="Y" id="89" x="201" y="5" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="Z" id="90" x="210" y="5" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="[" id="91" x="228" y="24" width="12" height="13" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
+<char character="\" id="92" x="65" y="55" width="24" height="21" xoffset="0" yoffset="0" padding="0" xadvance="24" page="0" chnl="0"/>
 <char character="]" id="93" x="226" y="39" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="_" id="95" x="205" y="24" width="5" height="13" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="`" id="96" x="190" y="49" width="16" height="13" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
