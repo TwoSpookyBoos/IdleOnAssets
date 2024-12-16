@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-109.png"/>
 </pages>
-<chars count="157">
+<chars count="158">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="三" id="19977" x="242" y="37" width="11" height="13" xoffset="0" yoffset="0" padding="0" xadvance="11" page="0" chnl="0"/>
 <char character="!" id="33" x="192" y="24" width="3" height="13" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
@@ -153,6 +153,7 @@
 <char character="ê" id="234" x="87" y="111" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="ë" id="235" x="51" y="111" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="í" id="237" x="228" y="130" width="4" height="13" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
+<char character="热" id="28909" x="141" y="139" width="18" height="13" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="î" id="238" x="95" y="111" width="5" height="13" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="ï" id="239" x="58" y="111" width="5" height="13" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="ó" id="243" x="1" y="111" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
