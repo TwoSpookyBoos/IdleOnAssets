@@ -5,10 +5,11 @@
 <pages>
 <page id="0" file="font-675.png"/>
 </pages>
-<chars count="130">
+<chars count="131">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="렀" id="47104" x="200" y="1206" width="200" height="58" xoffset="0" yoffset="0" padding="0" xadvance="200" page="0" chnl="0"/>
 <char character="爆" id="29190" x="254" y="460" width="28" height="28" xoffset="0" yoffset="0" padding="0" xadvance="28" page="0" chnl="0"/>
+<char character="옆" id="50694" x="0" y="952" width="204" height="22" xoffset="0" yoffset="0" padding="0" xadvance="204" page="0" chnl="0"/>
 <char character="레" id="47112" x="0" y="1206" width="200" height="58" xoffset="0" yoffset="0" padding="0" xadvance="200" page="0" chnl="0"/>
 <char character="렌" id="47116" x="200" y="1148" width="200" height="58" xoffset="0" yoffset="0" padding="0" xadvance="200" page="0" chnl="0"/>
 <char character="렐" id="47120" x="0" y="1148" width="200" height="58" xoffset="0" yoffset="0" padding="0" xadvance="200" page="0" chnl="0"/>
