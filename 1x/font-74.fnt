@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
 <info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
-<common lineHeight="27" base="26" scaleW="256" scaleH="128" pages="1" packed="0"/>
+<common lineHeight="23" base="26" scaleW="256" scaleH="128" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-74.png"/>
 </pages>
-<chars count="89">
+<chars count="87">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
-<char character="小" id="23567" x="103" y="29" width="29" height="27" xoffset="0" yoffset="0" padding="0" xadvance="29" page="0" chnl="0"/>
 <char character="!" id="33" x="181" y="12" width="14" height="12" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="#" id="35" x="136" y="28" width="11" height="12" xoffset="0" yoffset="0" padding="0" xadvance="11" page="0" chnl="0"/>
 <char character="$" id="36" x="208" y="16" width="14" height="14" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
@@ -37,7 +36,6 @@
 <char character="A" id="65" x="0" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="B" id="66" x="9" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="C" id="67" x="18" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="千" id="21315" x="136" y="28" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="D" id="68" x="27" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="E" id="69" x="36" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="F" id="70" x="45" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
@@ -64,7 +62,7 @@
 <char character="[" id="91" x="223" y="12" width="14" height="12" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="]" id="93" x="123" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="^" id="94" x="46" y="31" width="17" height="17" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
-<char character="_" id="95" x="174" y="12" width="7" height="12" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="_" id="95" x="117" y="30" width="7" height="12" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="`" id="96" x="11" y="55" width="14" height="14" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="a" id="97" x="0" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="b" id="98" x="9" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>

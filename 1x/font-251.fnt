@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
 <info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
-<common lineHeight="87" base="26" scaleW="512" scaleH="256" pages="1" packed="0"/>
+<common lineHeight="23" base="26" scaleW="256" scaleH="128" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-251.png"/>
 </pages>
-<chars count="90">
+<chars count="89">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="208" y="12" width="5" height="12" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="3" y="60" width="213" height="16" xoffset="0" yoffset="0" padding="0" xadvance="213" page="0" chnl="0"/>
@@ -94,7 +94,6 @@
 <char character="y" id="121" x="216" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="z" id="122" x="225" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="{" id="123" x="175" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="}" id="125" x="4" y="82" width="279" height="87" xoffset="0" yoffset="0" padding="0" xadvance="279" page="0" chnl="0"/>
 <char character="~" id="126" x="144" y="12" width="10" height="12" xoffset="0" yoffset="0" padding="0" xadvance="10" page="0" chnl="0"/>
 </chars>
 </font>

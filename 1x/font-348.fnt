@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-348.png"/>
 </pages>
-<chars count="60">
+<chars count="59">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="426" y="157" width="54" height="41" xoffset="0" yoffset="0" padding="0" xadvance="54" page="0" chnl="0"/>
 <char character="#" id="35" x="426" y="205" width="54" height="41" xoffset="0" yoffset="0" padding="0" xadvance="54" page="0" chnl="0"/>
@@ -65,6 +65,5 @@
 <char character="y" id="121" x="511" y="244" width="29" height="33" xoffset="0" yoffset="0" padding="0" xadvance="29" page="0" chnl="0"/>
 <char character="z" id="122" x="541" y="256" width="98" height="27" xoffset="0" yoffset="0" padding="0" xadvance="98" page="0" chnl="0"/>
 <char character="{" id="123" x="206" y="234" width="9" height="18" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="~" id="126" x="647" y="212" width="70" height="105" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
 </chars>
 </font>

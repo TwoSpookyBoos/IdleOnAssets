@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-318.png"/>
 </pages>
-<chars count="72">
+<chars count="71">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="2" y="345" width="285" height="20" xoffset="0" yoffset="0" padding="0" xadvance="285" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="290" y="281" width="113" height="11" xoffset="0" yoffset="0" padding="0" xadvance="113" page="0" chnl="0"/>
@@ -70,7 +70,6 @@
 <char character="u" id="117" x="139" y="267" width="131" height="31" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
 <char character="v" id="118" x="386" y="134" width="26" height="21" xoffset="0" yoffset="0" padding="0" xadvance="26" page="0" chnl="0"/>
 <char character="w" id="119" x="352" y="164" width="25" height="21" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
-<char character="迷" id="36855" x="472" y="280" width="38" height="38" xoffset="0" yoffset="0" padding="0" xadvance="38" page="0" chnl="0"/>
 <char character="x" id="120" x="389" y="163" width="25" height="22" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
 <char character="y" id="121" x="363" y="28" width="12" height="12" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="z" id="122" x="382" y="28" width="12" height="12" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>

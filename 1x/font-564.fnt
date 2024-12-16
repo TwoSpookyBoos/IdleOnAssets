@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
 <info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
-<common lineHeight="27" base="26" scaleW="512" scaleH="128" pages="1" packed="0"/>
+<common lineHeight="21" base="26" scaleW="512" scaleH="128" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-564.png"/>
 </pages>
@@ -10,9 +10,9 @@
 <char character="!" id="33" x="142" y="31" width="5" height="12" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="109" y="28" width="12" height="12" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="#" id="35" x="178" y="29" width="11" height="12" xoffset="0" yoffset="0" padding="0" xadvance="11" page="0" chnl="0"/>
-<char character="$" id="36" x="1" y="25" width="33" height="27" xoffset="0" yoffset="0" padding="0" xadvance="33" page="0" chnl="0"/>
+<char character="$" id="36" x="54" y="27" width="54" height="16" xoffset="0" yoffset="0" padding="0" xadvance="54" page="0" chnl="0"/>
 <char character="%" id="37" x="111" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
-<char character="&amp;" id="38" x="73" y="27" width="21" height="21" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
+<char character="&amp;" id="38" x="22" y="24" width="21" height="21" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
 <char character="&apos;" id="39" x="137" y="39" width="4" height="15" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
 <char character="(" id="40" x="161" y="38" width="5" height="14" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character=")" id="41" x="170" y="38" width="4" height="14" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
