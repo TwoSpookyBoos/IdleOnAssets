@@ -5,11 +5,12 @@
 <pages>
 <page id="0" file="font-650.png"/>
 </pages>
-<chars count="127">
+<chars count="128">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
+<char character="而" id="32780" x="174" y="16" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="35" y="77" width="12" height="16" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="#" id="35" x="221" y="63" width="18" height="16" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
-<char character="$" id="36" x="58" y="73" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
+<char character="$" id="36" x="174" y="16" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="%" id="37" x="111" y="15" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="&amp;" id="38" x="83" y="55" width="131" height="27" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
 <char character="&apos;" id="39" x="185" y="37" width="31" height="13" xoffset="0" yoffset="0" padding="0" xadvance="31" page="0" chnl="0"/>

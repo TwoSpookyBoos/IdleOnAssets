@@ -98,7 +98,7 @@
 <char character="Â" id="194" x="287" y="180" width="15" height="22" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="Ä" id="196" x="200" y="180" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="Æ" id="198" x="314" y="146" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
-<char character="Ç" id="199" x="332" y="151" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="Ç" id="199" x="382" y="4" width="41" height="41" xoffset="0" yoffset="0" padding="0" xadvance="41" page="0" chnl="0"/>
 <char character="È" id="200" x="40" y="180" width="15" height="22" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="É" id="201" x="133" y="180" width="15" height="22" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="Ê" id="202" x="305" y="180" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
@@ -128,7 +128,7 @@
 <char character="ô" id="244" x="336" y="180" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="ö" id="246" x="247" y="180" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="ù" id="249" x="90" y="180" width="15" height="22" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
-<char character="ú" id="250" x="298" y="8" width="26" height="22" xoffset="0" yoffset="0" padding="0" xadvance="26" page="0" chnl="0"/>
+<char character="ú" id="250" x="431" y="4" width="41" height="41" xoffset="0" yoffset="0" padding="0" xadvance="41" page="0" chnl="0"/>
 <char character="û" id="251" x="355" y="180" width="15" height="22" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="ü" id="252" x="266" y="180" width="15" height="22" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="ÿ" id="255" x="343" y="154" width="16" height="22" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
