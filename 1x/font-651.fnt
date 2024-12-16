@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
 <info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
-<common lineHeight="67" base="26" scaleW="256" scaleH="256" pages="1" packed="0"/>
+<common lineHeight="159" base="26" scaleW="256" scaleH="512" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-651.png"/>
 </pages>
-<chars count="126">
+<chars count="127">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
+<char character="!" id="33" x="4" y="221" width="247" height="159" xoffset="0" yoffset="0" padding="0" xadvance="247" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="177" y="40" width="12" height="16" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="#" id="35" x="3" y="69" width="240" height="67" xoffset="0" yoffset="0" padding="0" xadvance="240" page="0" chnl="0"/>
 <char character="$" id="36" x="9" y="140" width="85" height="26" xoffset="0" yoffset="0" padding="0" xadvance="85" page="0" chnl="0"/>
