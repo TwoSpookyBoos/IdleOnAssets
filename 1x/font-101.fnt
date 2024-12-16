@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<font>
+<info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
+<common lineHeight="38" base="26" scaleW="512" scaleH="256" pages="1" packed="0"/>
+<pages>
+<page id="0" file="font-101.png"/>
+</pages>
+<chars count="9">
+<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
+<char character="(" id="40" x="167" y="151" width="20" height="20" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
+<char character=")" id="41" x="168" y="137" width="122" height="12" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
+<char character="[" id="91" x="3" y="3" width="76" height="38" xoffset="0" yoffset="0" padding="0" xadvance="76" page="0" chnl="0"/>
+<char character="{" id="123" x="3" y="45" width="72" height="35" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
+<char character="]" id="93" x="81" y="3" width="76" height="38" xoffset="0" yoffset="0" padding="0" xadvance="76" page="0" chnl="0"/>
+<char character="}" id="125" x="81" y="45" width="69" height="35" xoffset="0" yoffset="0" padding="0" xadvance="69" page="0" chnl="0"/>
+<char character="&gt;" id="62" x="192" y="151" width="2" height="16" xoffset="0" yoffset="0" padding="0" xadvance="2" page="0" chnl="0"/>
+<char character="_" id="95" x="160" y="3" width="1" height="35" xoffset="0" yoffset="0" padding="0" xadvance="1" page="0" chnl="0"/>
+</chars>
+</font>
