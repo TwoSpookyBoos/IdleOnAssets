@@ -5,9 +5,10 @@
 <pages>
 <page id="0" file="font-472.png"/>
 </pages>
-<chars count="154">
+<chars count="155">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="三" id="19977" x="118" y="67" width="17" height="16" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
+<char character="期" id="26399" x="314" y="5" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="!" id="33" x="373" y="26" width="3" height="12" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="114" y="44" width="13" height="12" xoffset="0" yoffset="0" padding="0" xadvance="13" page="0" chnl="0"/>
 <char character="#" id="35" x="264" y="64" width="54" height="27" xoffset="0" yoffset="0" padding="0" xadvance="54" page="0" chnl="0"/>
