@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
-<info zoom="2.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
+<info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
 <common lineHeight="218" base="26" scaleW="512" scaleH="1024" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-628.png"/>
 </pages>
-<chars count="104">
+<chars count="105">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="2" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="273" y="319" width="21" height="21" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
@@ -14,6 +14,7 @@
 <char character="%" id="37" x="277" y="306" width="11" height="8" xoffset="0" yoffset="0" padding="0" xadvance="11" page="0" chnl="0"/>
 <char character="&amp;" id="38" x="78" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="&apos;" id="39" x="443" y="263" width="15" height="27" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
+<char character="大" id="22823" x="454" y="2" width="19" height="20" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
 <char character="(" id="40" x="3" y="600" width="358" height="45" xoffset="0" yoffset="0" padding="0" xadvance="358" page="0" chnl="0"/>
 <char character=")" id="41" x="96" y="720" width="17" height="18" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
 <char character="*" id="42" x="3" y="646" width="358" height="41" xoffset="0" yoffset="0" padding="0" xadvance="358" page="0" chnl="0"/>
