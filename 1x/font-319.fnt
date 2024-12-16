@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-319.png"/>
 </pages>
-<chars count="134">
+<chars count="135">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="142" y="31" width="5" height="12" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="178" y="29" width="7" height="12" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
@@ -106,6 +106,7 @@
 <char character="|" id="124" x="207" y="34" width="17" height="14" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
 <char character="}" id="125" x="262" y="0" width="12" height="12" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="~" id="126" x="150" y="32" width="10" height="12" xoffset="0" yoffset="0" padding="0" xadvance="10" page="0" chnl="0"/>
+<char character="访" id="35775" x="194" y="12" width="12" height="11" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="À" id="192" x="25" y="64" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="Â" id="194" x="76" y="64" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="Ä" id="196" x="221" y="64" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>

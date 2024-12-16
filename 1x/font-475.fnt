@@ -5,12 +5,12 @@
 <pages>
 <page id="0" file="font-475.png"/>
 </pages>
-<chars count="93">
+<chars count="94">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="192" y="25" width="3" height="13" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="137" y="42" width="19" height="13" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
 <char character="%" id="37" x="228" y="25" width="12" height="13" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
-<char character="&amp;" id="38" x="233" y="40" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="&amp;" id="38" x="72" y="66" width="14" height="13" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="&apos;" id="39" x="211" y="25" width="3" height="13" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="(" id="40" x="190" y="40" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character=")" id="41" x="197" y="40" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
@@ -77,6 +77,7 @@
 <char character="f" id="102" x="38" y="25" width="6" height="13" xoffset="0" yoffset="0" padding="0" xadvance="6" page="0" chnl="0"/>
 <char character="g" id="103" x="44" y="25" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="h" id="104" x="51" y="25" width="7" height="13" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="门" id="38376" x="44" y="57" width="28" height="20" xoffset="0" yoffset="0" padding="0" xadvance="28" page="0" chnl="0"/>
 <char character="i" id="105" x="58" y="25" width="3" height="13" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="j" id="106" x="61" y="25" width="6" height="14" xoffset="0" yoffset="0" padding="0" xadvance="6" page="0" chnl="0"/>
 <char character="k" id="107" x="67" y="25" width="6" height="13" xoffset="0" yoffset="0" padding="0" xadvance="6" page="0" chnl="0"/>
