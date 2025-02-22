@@ -5,16 +5,20 @@
 <pages>
 <page id="0" file="font-101.png"/>
 </pages>
-<chars count="10">
+<chars count="14">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="282" y="5" width="220" height="91" xoffset="0" yoffset="0" padding="0" xadvance="220" page="0" chnl="0"/>
-<char character="(" id="40" x="167" y="151" width="20" height="20" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
-<char character=")" id="41" x="168" y="137" width="122" height="12" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
+<char character="A" id="65" x="300" y="112" width="30" height="30" xoffset="0" yoffset="0" padding="0" xadvance="30" page="0" chnl="0"/>
+<char character="B" id="66" x="337" y="112" width="30" height="30" xoffset="0" yoffset="0" padding="0" xadvance="30" page="0" chnl="0"/>
+<char character="C" id="67" x="1" y="153" width="430" height="98" xoffset="0" yoffset="0" padding="0" xadvance="430" page="0" chnl="0"/>
+<char character="D" id="68" x="377" y="111" width="45" height="35" xoffset="0" yoffset="0" padding="0" xadvance="45" page="0" chnl="0"/>
+<char character="(" id="40" x="167" y="126" width="20" height="20" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
+<char character=")" id="41" x="168" y="112" width="122" height="12" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
 <char character="[" id="91" x="3" y="3" width="76" height="38" xoffset="0" yoffset="0" padding="0" xadvance="76" page="0" chnl="0"/>
 <char character="{" id="123" x="3" y="45" width="72" height="35" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
 <char character="]" id="93" x="81" y="3" width="76" height="38" xoffset="0" yoffset="0" padding="0" xadvance="76" page="0" chnl="0"/>
 <char character="}" id="125" x="81" y="45" width="69" height="35" xoffset="0" yoffset="0" padding="0" xadvance="69" page="0" chnl="0"/>
-<char character="&gt;" id="62" x="192" y="151" width="2" height="16" xoffset="0" yoffset="0" padding="0" xadvance="2" page="0" chnl="0"/>
+<char character="&gt;" id="62" x="192" y="126" width="2" height="16" xoffset="0" yoffset="0" padding="0" xadvance="2" page="0" chnl="0"/>
 <char character="_" id="95" x="160" y="3" width="1" height="35" xoffset="0" yoffset="0" padding="0" xadvance="1" page="0" chnl="0"/>
 </chars>
 </font>
