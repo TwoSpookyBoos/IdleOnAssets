@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-628.png"/>
 </pages>
-<chars count="113">
+<chars count="123">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="焚" id="28954" x="404" y="189" width="81" height="25" xoffset="0" yoffset="0" padding="0" xadvance="81" page="0" chnl="0"/>
 <char character="!" id="33" x="2" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
@@ -20,6 +20,7 @@
 <char character=")" id="41" x="92" y="720" width="17" height="18" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
 <char character="*" id="42" x="3" y="646" width="358" height="41" xoffset="0" yoffset="0" padding="0" xadvance="358" page="0" chnl="0"/>
 <char character="+" id="43" x="8" y="750" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
+<char character="紫" id="32043" x="102" y="969" width="25" height="25" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
 <char character="," id="44" x="473" y="263" width="12" height="27" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="-" id="45" x="9" y="831" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
 <char character="." id="46" x="269" y="750" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
@@ -109,14 +110,23 @@
 <char character="板" id="26495" x="162" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="极" id="26497" x="144" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="构" id="26500" x="126" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
+<char character="疑" id="30097" x="410" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="£" id="163" x="262" y="900" width="16" height="14" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="₣" id="8355" x="324" y="718" width="26" height="20" xoffset="0" yoffset="0" padding="0" xadvance="26" page="0" chnl="0"/>
 <char character="¥" id="165" x="300" y="421" width="135" height="41" xoffset="0" yoffset="0" padding="0" xadvance="135" page="0" chnl="0"/>
 <char character="咩" id="21673" x="2" y="969" width="95" height="14" xoffset="0" yoffset="0" padding="0" xadvance="95" page="0" chnl="0"/>
 <char character="€" id="8364" x="2" y="896" width="258" height="22" xoffset="0" yoffset="0" padding="0" xadvance="258" page="0" chnl="0"/>
+<char character="疲" id="30130" x="373" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="₹" id="8377" x="295" y="718" width="26" height="20" xoffset="0" yoffset="0" padding="0" xadvance="26" page="0" chnl="0"/>
+<char character="疾" id="30142" x="427" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="评" id="35780" x="296" y="889" width="189" height="26" xoffset="0" yoffset="0" padding="0" xadvance="189" page="0" chnl="0"/>
 <char character="诅" id="35781" x="353" y="705" width="152" height="38" xoffset="0" yoffset="0" padding="0" xadvance="152" page="0" chnl="0"/>
+<char character="病" id="30149" x="444" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="痕" id="30165" x="392" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="糕" id="31957" x="156" y="969" width="25" height="25" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
+<char character="糖" id="31958" x="131" y="969" width="25" height="25" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
+<char character="痛" id="30171" x="355" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="競" id="31478" x="2" y="896" width="169" height="22" xoffset="0" yoffset="0" padding="0" xadvance="169" page="0" chnl="0"/>
 <char character="迷" id="36855" x="302" y="465" width="101" height="25" xoffset="0" yoffset="0" padding="0" xadvance="101" page="0" chnl="0"/>
 <char character="烹" id="28921" x="404" y="216" width="81" height="25" xoffset="0" yoffset="0" padding="0" xadvance="81" page="0" chnl="0"/>
 </chars>

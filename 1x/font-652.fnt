@@ -5,9 +5,10 @@
 <pages>
 <page id="0" file="font-652.png"/>
 </pages>
-<chars count="173">
+<chars count="175">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="言" id="35328" x="323" y="364" width="140" height="18" xoffset="0" yoffset="0" padding="0" xadvance="140" page="0" chnl="0"/>
+<char character="逊" id="36874" x="2" y="453" width="176" height="32" xoffset="0" yoffset="0" padding="0" xadvance="176" page="0" chnl="0"/>
 <char character="而" id="32780" x="173" y="15" width="8" height="16" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="蘑" id="34321" x="550" y="101" width="71" height="30" xoffset="0" yoffset="0" padding="0" xadvance="71" page="0" chnl="0"/>
 <char character="期" id="26399" x="139" y="364" width="80" height="32" xoffset="0" yoffset="0" padding="0" xadvance="80" page="0" chnl="0"/>
@@ -85,7 +86,7 @@
 <char character="杜" id="26460" x="2" y="328" width="249" height="34" xoffset="0" yoffset="0" padding="0" xadvance="249" page="0" chnl="0"/>
 <char character="]" id="93" x="123" y="15" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="^" id="94" x="78" y="37" width="21" height="21" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
-<char character="_" id="95" x="197" y="16" width="7" height="16" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="_" id="95" x="225" y="16" width="7" height="16" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="`" id="96" x="413" y="283" width="76" height="24" xoffset="4" yoffset="4" padding="0" xadvance="76" page="0" chnl="0"/>
 <char character="a" id="97" x="0" y="0" width="9" height="16" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="ち" id="12385" x="660" y="176" width="55" height="39" xoffset="0" yoffset="0" padding="0" xadvance="55" page="0" chnl="0"/>
@@ -137,6 +138,7 @@
 <char character="誠" id="35488" x="158" y="15" width="14" height="16" xoffset="0" yoffset="1" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="没" id="27809" x="395" y="328" width="90" height="36" xoffset="0" yoffset="0" padding="0" xadvance="90" page="0" chnl="0"/>
 <char character="计" id="35745" x="323" y="382" width="130" height="17" xoffset="0" yoffset="1" padding="0" xadvance="130" page="0" chnl="0"/>
+<char character="梦" id="26790" x="199" y="17" width="14" height="16" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="级" id="32423" x="326" y="328" width="66" height="36" xoffset="0" yoffset="0" padding="0" xadvance="66" page="0" chnl="0"/>
 <char character="身" id="36523" x="546" y="1" width="70" height="30" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
 <char character="躲" id="36530" x="485" y="1" width="60" height="30" xoffset="0" yoffset="0" padding="0" xadvance="60" page="0" chnl="0"/>

@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-558.png"/>
 </pages>
-<chars count="32">
+<chars count="36">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="A" id="65" x="33" y="4" width="318" height="88" xoffset="0" yoffset="0" padding="0" xadvance="318" page="0" chnl="0"/>
 <char character="B" id="66" x="33" y="93" width="70" height="25" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
@@ -22,6 +22,9 @@
 <char character="M" id="77" x="201" y="801" width="140" height="24" xoffset="0" yoffset="0" padding="0" xadvance="140" page="0" chnl="0"/>
 <char character="N" id="78" x="129" y="831" width="81" height="30" xoffset="0" yoffset="0" padding="0" xadvance="81" page="0" chnl="0"/>
 <char character="O" id="79" x="212" y="827" width="96" height="15" xoffset="0" yoffset="0" padding="0" xadvance="96" page="0" chnl="0"/>
+<char character="Q" id="81" x="129" y="881" width="72" height="18" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
+<char character="R" id="82" x="202" y="862" width="72" height="18" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
+<char character="S" id="83" x="1" y="913" width="190" height="63" xoffset="0" yoffset="0" padding="0" xadvance="190" page="0" chnl="0"/>
 <char character="a" id="97" x="3" y="3" width="23" height="23" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
 <char character="b" id="98" x="3" y="27" width="23" height="23" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
 <char character="c" id="99" x="3" y="51" width="23" height="23" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
@@ -38,5 +41,6 @@
 <char character="n" id="110" x="3" y="315" width="23" height="23" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
 <char character="o" id="111" x="3" y="339" width="23" height="23" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
 <char character="p" id="112" x="3" y="363" width="23" height="23" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
+<char character="q" id="113" x="129" y="862" width="72" height="18" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
 </chars>
 </font>
