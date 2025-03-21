@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-707.png"/>
 </pages>
-<chars count="45">
+<chars count="48">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="A" id="65" x="0" y="117" width="221" height="52" xoffset="0" yoffset="0" padding="0" xadvance="221" page="0" chnl="0"/>
 <char character="B" id="66" x="222" y="117" width="70" height="19" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
@@ -13,7 +13,7 @@
 <char character="D" id="68" x="610" y="115" width="137" height="46" xoffset="0" yoffset="0" padding="0" xadvance="137" page="0" chnl="0"/>
 <char character="雄" id="38596" x="255" y="346" width="222" height="37" xoffset="0" yoffset="0" padding="0" xadvance="222" page="0" chnl="0"/>
 <char character="E" id="69" x="610" y="147" width="189" height="13" xoffset="0" yoffset="0" padding="0" xadvance="189" page="0" chnl="0"/>
-<char character="雅" id="38597" x="4" y="461" width="237" height="37" xoffset="0" yoffset="0" padding="0" xadvance="237" page="0" chnl="0"/>
+<char character="雅" id="38597" x="4" y="461" width="225" height="37" xoffset="0" yoffset="0" padding="0" xadvance="225" page="0" chnl="0"/>
 <char character="F" id="70" x="222" y="139" width="24" height="26" xoffset="0" yoffset="0" padding="0" xadvance="24" page="0" chnl="0"/>
 <char character="G" id="71" x="246" y="139" width="24" height="26" xoffset="0" yoffset="0" padding="0" xadvance="24" page="0" chnl="0"/>
 <char character="雇" id="38599" x="8" y="422" width="226" height="38" xoffset="0" yoffset="0" padding="0" xadvance="226" page="0" chnl="0"/>
@@ -25,6 +25,9 @@
 <char character="M" id="77" x="212" y="239" width="106" height="19" xoffset="0" yoffset="0" padding="0" xadvance="106" page="0" chnl="0"/>
 <char character="N" id="78" x="476" y="212" width="122" height="45" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
 <char character="雏" id="38607" x="10" y="383" width="245" height="37" xoffset="0" yoffset="0" padding="0" xadvance="245" page="0" chnl="0"/>
+<char character="O" id="79" x="292" y="167" width="66" height="15" xoffset="0" yoffset="0" padding="0" xadvance="66" page="0" chnl="0"/>
+<char character="P" id="80" x="260" y="425" width="129" height="44" xoffset="0" yoffset="0" padding="0" xadvance="129" page="0" chnl="0"/>
+<char character="Q" id="81" x="231" y="471" width="33" height="27" xoffset="0" yoffset="0" padding="0" xadvance="33" page="0" chnl="0"/>
 <char character="雕" id="38613" x="8" y="346" width="247" height="37" xoffset="0" yoffset="0" padding="0" xadvance="247" page="0" chnl="0"/>
 <char character="X" id="88" x="211" y="214" width="119" height="24" xoffset="0" yoffset="0" padding="0" xadvance="119" page="0" chnl="0"/>
 <char character="Y" id="89" x="330" y="214" width="103" height="25" xoffset="0" yoffset="0" padding="0" xadvance="103" page="0" chnl="0"/>
