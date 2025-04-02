@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-707.png"/>
 </pages>
-<chars count="48">
+<chars count="49">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="A" id="65" x="0" y="117" width="221" height="52" xoffset="0" yoffset="0" padding="0" xadvance="221" page="0" chnl="0"/>
 <char character="B" id="66" x="222" y="117" width="70" height="19" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
@@ -53,6 +53,7 @@
 <char character="1" id="49" x="3" y="214" width="185" height="24" xoffset="0" yoffset="0" padding="0" xadvance="185" page="0" chnl="0"/>
 <char character="q" id="113" x="212" y="317" width="375" height="28" xoffset="0" yoffset="0" padding="0" xadvance="375" page="0" chnl="0"/>
 <char character="2" id="50" x="3" y="237" width="208" height="21" xoffset="0" yoffset="0" padding="0" xadvance="208" page="0" chnl="0"/>
+<char character="r" id="114" x="391" y="425" width="55" height="46" xoffset="0" yoffset="0" padding="0" xadvance="55" page="0" chnl="0"/>
 <char character="难" id="38590" x="255" y="383" width="213" height="37" xoffset="0" yoffset="0" padding="0" xadvance="213" page="0" chnl="0"/>
 </chars>
 </font>

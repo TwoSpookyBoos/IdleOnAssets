@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
-<info zoom="2.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
+<info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
 <common lineHeight="107" base="26" scaleW="1024" scaleH="512" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-652.png"/>
 </pages>
-<chars count="175">
+<chars count="177">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="言" id="35328" x="323" y="364" width="140" height="18" xoffset="0" yoffset="0" padding="0" xadvance="140" page="0" chnl="0"/>
 <char character="逊" id="36874" x="2" y="453" width="176" height="32" xoffset="0" yoffset="0" padding="0" xadvance="176" page="0" chnl="0"/>
@@ -134,7 +134,9 @@
 <char character="~" id="126" x="0" y="33" width="72" height="30" xoffset="0" yoffset="0" padding="0" xadvance="72" page="0" chnl="0"/>
 <char character="蹿" id="36479" x="617" y="2" width="77" height="30" xoffset="0" yoffset="0" padding="0" xadvance="77" page="0" chnl="0"/>
 <char character="蚀" id="34432" x="553" y="68" width="70" height="30" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
+<char character="熔" id="29076" x="604" y="449" width="113" height="38" xoffset="0" yoffset="0" padding="0" xadvance="113" page="0" chnl="0"/>
 <char character="龙" id="40857" x="406" y="246" width="88" height="36" xoffset="0" yoffset="0" padding="0" xadvance="88" page="0" chnl="0"/>
+<char character="熟" id="29087" x="488" y="449" width="113" height="38" xoffset="0" yoffset="0" padding="0" xadvance="113" page="0" chnl="0"/>
 <char character="誠" id="35488" x="158" y="15" width="14" height="16" xoffset="0" yoffset="1" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="没" id="27809" x="395" y="328" width="90" height="36" xoffset="0" yoffset="0" padding="0" xadvance="90" page="0" chnl="0"/>
 <char character="计" id="35745" x="323" y="382" width="130" height="17" xoffset="0" yoffset="1" padding="0" xadvance="130" page="0" chnl="0"/>
