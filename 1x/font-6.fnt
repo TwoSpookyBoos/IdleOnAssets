@@ -5,8 +5,10 @@
 <pages>
 <page id="0" file="font-6.png"/>
 </pages>
-<chars count="69">
+<chars count="71">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
+<char character="蒂" id="33922" x="149" y="795" width="37" height="15" xoffset="0" yoffset="0" padding="0" xadvance="37" page="0" chnl="0"/>
+<char character="蒙" id="33945" x="3" y="794" width="144" height="69" xoffset="0" yoffset="0" padding="0" xadvance="144" page="0" chnl="0"/>
 <char character="!" id="33" x="21" y="45" width="366" height="47" xoffset="0" yoffset="0" padding="0" xadvance="366" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="3" y="197" width="84" height="33" xoffset="0" yoffset="0" padding="0" xadvance="84" page="0" chnl="0"/>
 <char character="#" id="35" x="106" y="244" width="25" height="18" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>

@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-322.png"/>
 </pages>
-<chars count="134">
+<chars count="135">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="小" id="23567" x="207" y="57" width="29" height="27" xoffset="0" yoffset="0" padding="0" xadvance="29" page="0" chnl="0"/>
 <char character="!" id="33" x="142" y="31" width="5" height="12" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
@@ -25,6 +25,7 @@
 <char character="/" id="47" x="96" y="28" width="26" height="12" xoffset="0" yoffset="0" padding="0" xadvance="26" page="0" chnl="0"/>
 <char character="0" id="48" x="80" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="1" id="49" x="0" y="12" width="8" height="12" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
+<char character="由" id="30001" x="202" y="90" width="36" height="29" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
 <char character="2" id="50" x="8" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="3" id="51" x="17" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="4" id="52" x="26" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
