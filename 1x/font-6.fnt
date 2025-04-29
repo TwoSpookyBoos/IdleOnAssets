@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
-<info zoom="2.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
+<info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
 <common lineHeight="86" base="26" scaleW="512" scaleH="1024" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-6.png"/>
 </pages>
-<chars count="71">
+<chars count="73">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="蒂" id="33922" x="149" y="795" width="37" height="15" xoffset="0" yoffset="0" padding="0" xadvance="37" page="0" chnl="0"/>
 <char character="蒙" id="33945" x="3" y="794" width="144" height="69" xoffset="0" yoffset="0" padding="0" xadvance="144" page="0" chnl="0"/>
@@ -71,9 +71,11 @@
 <char character="i" id="105" x="169" y="93" width="23" height="19" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
 <char character="j" id="106" x="194" y="93" width="23" height="19" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
 <char character="k" id="107" x="219" y="93" width="23" height="19" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
+<char character="件" id="20214" x="149" y="845" width="32" height="30" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
 <char character="y" id="121" x="321" y="451" width="65" height="34" xoffset="0" yoffset="0" padding="0" xadvance="65" page="0" chnl="0"/>
 <char character="z" id="122" x="107" y="271" width="286" height="57" xoffset="0" yoffset="0" padding="0" xadvance="286" page="0" chnl="0"/>
 <char character="{" id="123" x="102" y="146" width="14" height="20" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
+<char character="任" id="20219" x="149" y="814" width="32" height="30" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
 <char character="|" id="124" x="11" y="594" width="263" height="23" xoffset="0" yoffset="0" padding="0" xadvance="263" page="0" chnl="0"/>
 <char character="}" id="125" x="127" y="146" width="14" height="20" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="~" id="126" x="328" y="181" width="70" height="38" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
