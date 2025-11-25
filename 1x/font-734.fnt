@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<font>
+<info zoom="2.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
+<common lineHeight="343" base="26" scaleW="512" scaleH="1024" pages="1" packed="0"/>
+<pages>
+<page id="0" file="font-734.png"/>
+</pages>
+<chars count="20">
+<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
+<char character="@" id="64" x="113" y="429" width="17" height="20" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
+<char character="`" id="96" x="207" y="739" width="126" height="59" xoffset="0" yoffset="0" padding="0" xadvance="126" page="0" chnl="0"/>
+<char character="!" id="33" x="93" y="429" width="17" height="20" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
+<char character="&quot;" id="34" x="2" y="382" width="283" height="10" xoffset="0" yoffset="0" padding="0" xadvance="283" page="0" chnl="0"/>
+<char character="#" id="35" x="189" y="429" width="17" height="20" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
+<char character="$" id="36" x="210" y="429" width="17" height="20" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
+<char character="%" id="37" x="139" y="429" width="18" height="20" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
+<char character="&amp;" id="38" x="239" y="431" width="16" height="16" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="&apos;" id="39" x="70" y="429" width="15" height="17" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
+<char character="(" id="40" x="4" y="681" width="201" height="154" xoffset="0" yoffset="0" padding="0" xadvance="201" page="0" chnl="0"/>
+<char character="*" id="42" x="1" y="504" width="363" height="173" xoffset="0" yoffset="0" padding="0" xadvance="363" page="0" chnl="0"/>
+<char character="{" id="123" x="3" y="3" width="300" height="343" xoffset="0" yoffset="0" padding="0" xadvance="300" page="0" chnl="0"/>
+<char character="[" id="91" x="2" y="430" width="61" height="25" xoffset="0" yoffset="0" padding="0" xadvance="61" page="0" chnl="0"/>
+<char character="&lt;" id="60" x="2" y="457" width="267" height="10" xoffset="0" yoffset="0" padding="0" xadvance="267" page="0" chnl="0"/>
+<char character="|" id="124" x="207" y="679" width="122" height="57" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
+<char character="}" id="125" x="3" y="350" width="239" height="26" xoffset="0" yoffset="0" padding="0" xadvance="239" page="0" chnl="0"/>
+<char character="]" id="93" x="2" y="396" width="289" height="31" xoffset="0" yoffset="0" padding="0" xadvance="289" page="0" chnl="0"/>
+<char character="&gt;" id="62" x="2" y="470" width="289" height="31" xoffset="0" yoffset="0" padding="0" xadvance="289" page="0" chnl="0"/>
+<char character="^" id="94" x="156" y="429" width="18" height="20" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
+</chars>
+</font>
