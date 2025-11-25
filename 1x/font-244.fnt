@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
 <info zoom="4.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
-<common lineHeight="27" base="26" scaleW="256" scaleH="128" pages="1" packed="0"/>
+<common lineHeight="33" base="26" scaleW="256" scaleH="128" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-244.png"/>
 </pages>
-<chars count="91">
+<chars count="95">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="小" id="23567" x="59" y="56" width="29" height="27" xoffset="0" yoffset="0" padding="0" xadvance="29" page="0" chnl="0"/>
 <char character="誠" id="35488" x="202" y="12" width="14" height="12" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
@@ -16,10 +16,12 @@
 <char character="&amp;" id="38" x="97" y="28" width="21" height="23" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
 <char character="(" id="40" x="158" y="12" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character=")" id="41" x="166" y="12" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="*" id="42" x="139" y="100" width="37" height="15" xoffset="0" yoffset="0" padding="0" xadvance="37" page="0" chnl="0"/>
 <char character="+" id="43" x="93" y="12" width="10" height="12" xoffset="0" yoffset="0" padding="0" xadvance="10" page="0" chnl="0"/>
-<char character="," id="44" x="185" y="12" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="," id="44" x="187" y="12" width="4" height="14" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
 <char character="-" id="45" x="134" y="12" width="8" height="12" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="." id="46" x="89" y="12" width="4" height="12" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
+<char character="/" id="47" x="92" y="53" width="34" height="33" xoffset="0" yoffset="0" padding="0" xadvance="34" page="0" chnl="0"/>
 <char character="0" id="48" x="80" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="1" id="49" x="0" y="12" width="8" height="12" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="2" id="50" x="8" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
@@ -31,8 +33,10 @@
 <char character="8" id="56" x="62" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="9" id="57" x="71" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character=";" id="59" x="103" y="12" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="&lt;" id="60" x="3" y="91" width="128" height="33" xoffset="0" yoffset="0" padding="0" xadvance="128" page="0" chnl="0"/>
 <char character="=" id="61" x="164" y="32" width="17" height="12" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
 <char character="&gt;" id="62" x="62" y="31" width="25" height="23" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
+<char character="?" id="63" x="204" y="34" width="9" height="27" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="@" id="64" x="31" y="41" width="3" height="12" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="A" id="65" x="0" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="B" id="66" x="9" y="0" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>

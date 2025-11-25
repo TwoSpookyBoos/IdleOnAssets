@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-33.png"/>
 </pages>
-<chars count="149">
+<chars count="151">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="142" y="31" width="5" height="12" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="228" y="16" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
@@ -143,7 +143,9 @@
 <char character="é" id="233" x="190" y="86" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="ê" id="234" x="65" y="86" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="ë" id="235" x="168" y="86" width="9" height="12" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="烬" id="28908" x="235" y="82" width="19" height="18" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
 <char character="í" id="237" x="128" y="42" width="3" height="7" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
+<char character="热" id="28909" x="215" y="82" width="19" height="18" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
 <char character="î" id="238" x="74" y="86" width="8" height="12" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="ï" id="239" x="179" y="86" width="8" height="12" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="ó" id="243" x="120" y="43" width="3" height="7" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
