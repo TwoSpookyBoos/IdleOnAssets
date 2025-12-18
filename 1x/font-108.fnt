@@ -5,10 +5,10 @@
 <pages>
 <page id="0" file="font-108.png"/>
 </pages>
-<chars count="94">
+<chars count="102">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="小" id="23567" x="202" y="32" width="29" height="27" xoffset="0" yoffset="0" padding="0" xadvance="29" page="0" chnl="0"/>
-<char character="誠" id="35488" x="224" y="13" width="14" height="13" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
+<char character="列" id="21015" x="220" y="98" width="28" height="27" xoffset="0" yoffset="0" padding="0" xadvance="28" page="0" chnl="0"/>
 <char character="!" id="33" x="197" y="13" width="5" height="13" xoffset="0" yoffset="0" padding="0" xadvance="5" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="9" y="70" width="105" height="23" xoffset="0" yoffset="0" padding="0" xadvance="105" page="0" chnl="0"/>
 <char character="#" id="35" x="115" y="30" width="15" height="12" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
@@ -19,8 +19,9 @@
 <char character="(" id="40" x="158" y="13" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character=")" id="41" x="166" y="13" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
 <char character="*" id="42" x="28" y="48" width="15" height="18" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
+<char character="爪" id="29226" x="2" y="135" width="32" height="28" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
 <char character="+" id="43" x="93" y="13" width="10" height="12" xoffset="0" yoffset="0" padding="0" xadvance="10" page="0" chnl="0"/>
-<char character="," id="44" x="185" y="13" width="7" height="14" xoffset="0" yoffset="0" padding="0" xadvance="7" page="0" chnl="0"/>
+<char character="," id="44" x="187" y="13" width="4" height="15" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
 <char character="-" id="45" x="134" y="13" width="8" height="12" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="." id="46" x="89" y="13" width="4" height="13" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
 <char character="0" id="48" x="80" y="13" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
@@ -95,10 +96,17 @@
 <char character="v" id="118" x="189" y="0" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="w" id="119" x="198" y="0" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="x" id="120" x="207" y="0" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
+<char character="卸" id="21368" x="169" y="149" width="39" height="17" xoffset="0" yoffset="0" padding="0" xadvance="39" page="0" chnl="0"/>
 <char character="y" id="121" x="216" y="0" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="z" id="122" x="225" y="0" width="9" height="13" xoffset="0" yoffset="0" padding="0" xadvance="9" page="0" chnl="0"/>
 <char character="{" id="123" x="46" y="49" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
+<char character="|" id="124" x="26" y="27" width="15" height="13" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="}" id="125" x="68" y="49" width="20" height="18" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
 <char character="~" id="126" x="144" y="13" width="10" height="12" xoffset="0" yoffset="0" padding="0" xadvance="10" page="0" chnl="0"/>
+<char character="誠" id="35488" x="224" y="13" width="14" height="13" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
+<char character="去" id="21435" x="144" y="149" width="23" height="20" xoffset="0" yoffset="0" padding="0" xadvance="23" page="0" chnl="0"/>
+<char character="参" id="21442" x="38" y="149" width="105" height="20" xoffset="0" yoffset="0" padding="0" xadvance="105" page="0" chnl="0"/>
+<char character="从" id="20174" x="225" y="62" width="20" height="20" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
+<char character="염" id="50684" x="44" y="27" width="20" height="18" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
 </chars>
 </font>

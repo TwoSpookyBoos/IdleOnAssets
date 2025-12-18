@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-475.png"/>
 </pages>
-<chars count="101">
+<chars count="102">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="!" id="33" x="192" y="25" width="3" height="13" xoffset="0" yoffset="0" padding="0" xadvance="3" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="137" y="42" width="19" height="13" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
@@ -105,6 +105,7 @@
 <char character="~" id="126" x="180" y="25" width="4" height="13" xoffset="0" yoffset="0" padding="0" xadvance="4" page="0" chnl="0"/>
 <char character="超" id="36229" x="158" y="107" width="8" height="75" xoffset="0" yoffset="0" padding="0" xadvance="8" page="0" chnl="0"/>
 <char character="掘" id="25496" x="3" y="98" width="61" height="10" xoffset="0" yoffset="0" padding="0" xadvance="61" page="0" chnl="0"/>
+<char character="官" id="23448" x="236" y="42" width="12" height="13" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="€" id="8364" x="105" y="42" width="18" height="13" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="门" id="38376" x="44" y="57" width="28" height="20" xoffset="0" yoffset="0" padding="0" xadvance="28" page="0" chnl="0"/>
 </chars>

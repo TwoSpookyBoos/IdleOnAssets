@@ -5,47 +5,66 @@
 <pages>
 <page id="0" file="font-726.png"/>
 </pages>
-<chars count="41">
+<chars count="60">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
-<char character="혀" id="54784" x="406" y="146" width="36" height="30" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
-<char character="후" id="54980" x="473" y="73" width="40" height="96" xoffset="0" yoffset="0" padding="0" xadvance="40" page="0" chnl="0"/>
+<char character="혀" id="54784" x="406" y="143" width="36" height="30" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
+<char character="阀" id="38400" x="1" y="383" width="144" height="22" xoffset="0" yoffset="0" padding="0" xadvance="144" page="0" chnl="0"/>
 <char character="촉" id="52489" x="701" y="3" width="11" height="99" xoffset="0" yoffset="0" padding="0" xadvance="11" page="0" chnl="0"/>
 <char character="획" id="54925" x="514" y="73" width="18" height="96" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
-<char character="쳐" id="52432" x="784" y="3" width="24" height="99" xoffset="0" yoffset="0" padding="0" xadvance="24" page="0" chnl="0"/>
-<char character="확" id="54869" x="355" y="147" width="15" height="15" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="휘" id="55064" x="455" y="73" width="17" height="96" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
-<char character="하" id="54616" x="551" y="3" width="148" height="31" xoffset="0" yoffset="0" padding="0" xadvance="148" page="0" chnl="0"/>
 <char character="척" id="52377" x="2" y="281" width="201" height="12" xoffset="0" yoffset="0" padding="0" xadvance="201" page="0" chnl="0"/>
-<char character="[" id="91" x="120" y="47" width="19" height="20" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
-<char character="\" id="92" x="1" y="36" width="131" height="9" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
-<char character="혜" id="54812" x="406" y="113" width="36" height="31" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
-<char character="]" id="93" x="1" y="83" width="165" height="196" xoffset="0" yoffset="0" padding="0" xadvance="165" page="0" chnl="0"/>
-<char character="^" id="94" x="167" y="228" width="162" height="41" xoffset="0" yoffset="0" padding="0" xadvance="162" page="0" chnl="0"/>
-<char character="_" id="95" x="394" y="73" width="59" height="27" xoffset="0" yoffset="0" padding="0" xadvance="59" page="0" chnl="0"/>
+<char character="혜" id="54812" x="406" y="112" width="36" height="31" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
 <char character="!" id="33" x="212" y="112" width="100" height="9" xoffset="0" yoffset="0" padding="0" xadvance="100" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="213" y="41" width="147" height="23" xoffset="0" yoffset="0" padding="0" xadvance="147" page="0" chnl="0"/>
 <char character="#" id="35" x="254" y="65" width="66" height="9" xoffset="0" yoffset="0" padding="0" xadvance="66" page="0" chnl="0"/>
 <char character="$" id="36" x="244" y="74" width="84" height="9" xoffset="0" yoffset="0" padding="0" xadvance="84" page="0" chnl="0"/>
-<char character="헤" id="54756" x="534" y="104" width="206" height="122" xoffset="0" yoffset="0" padding="0" xadvance="206" page="0" chnl="0"/>
-<char character="쳤" id="52452" x="713" y="3" width="70" height="99" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
+<char character="%" id="37" x="743" y="177" width="92" height="69" xoffset="0" yoffset="0" padding="0" xadvance="92" page="0" chnl="0"/>
+<char character="&amp;" id="38" x="595" y="235" width="50" height="30" xoffset="0" yoffset="0" padding="0" xadvance="50" page="0" chnl="0"/>
 <char character="&apos;" id="39" x="167" y="83" width="226" height="28" xoffset="0" yoffset="0" padding="0" xadvance="226" page="0" chnl="0"/>
 <char character="(" id="40" x="457" y="1" width="92" height="69" xoffset="0" yoffset="0" padding="0" xadvance="92" page="0" chnl="0"/>
 <char character=")" id="41" x="355" y="112" width="32" height="32" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
-<char character="황" id="54889" x="398" y="102" width="52" height="8" xoffset="0" yoffset="0" padding="0" xadvance="52" page="0" chnl="0"/>
 <char character="*" id="42" x="228" y="195" width="283" height="30" xoffset="0" yoffset="0" padding="0" xadvance="283" page="0" chnl="0"/>
+<char character="薪" id="34218" x="610" y="301" width="197" height="20" xoffset="0" yoffset="0" padding="0" xadvance="197" page="0" chnl="0"/>
 <char character="+" id="43" x="168" y="124" width="147" height="34" xoffset="0" yoffset="0" padding="0" xadvance="147" page="0" chnl="0"/>
 <char character="," id="44" x="363" y="1" width="92" height="69" xoffset="0" yoffset="0" padding="0" xadvance="92" page="0" chnl="0"/>
 <char character="-" id="45" x="168" y="159" width="181" height="35" xoffset="0" yoffset="0" padding="0" xadvance="181" page="0" chnl="0"/>
 <char character="." id="46" x="167" y="112" width="30" height="9" xoffset="0" yoffset="0" padding="0" xadvance="30" page="0" chnl="0"/>
-<char character="{" id="123" x="2" y="296" width="359" height="85" xoffset="0" yoffset="0" padding="0" xadvance="359" page="0" chnl="0"/>
-<char character="|" id="124" x="0" y="0" width="360" height="35" xoffset="0" yoffset="0" padding="0" xadvance="360" page="0" chnl="0"/>
+<char character="刮" id="21038" x="494" y="170" width="36" height="23" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
+<char character="/" id="47" x="742" y="104" width="92" height="69" xoffset="0" yoffset="0" padding="0" xadvance="92" page="0" chnl="0"/>
+<char character="到" id="21040" x="455" y="170" width="36" height="23" xoffset="0" yoffset="0" padding="0" xadvance="36" page="0" chnl="0"/>
+<char character="制" id="21046" x="369" y="335" width="232" height="28" xoffset="0" yoffset="0" padding="0" xadvance="232" page="0" chnl="0"/>
+<char character="刺" id="21050" x="369" y="305" width="239" height="28" xoffset="0" yoffset="0" padding="0" xadvance="239" page="0" chnl="0"/>
+<char character="刻" id="21051" x="369" y="275" width="198" height="28" xoffset="0" yoffset="0" padding="0" xadvance="198" page="0" chnl="0"/>
 <char character="&lt;" id="60" x="1" y="46" width="58" height="36" xoffset="0" yoffset="0" padding="0" xadvance="58" page="0" chnl="0"/>
 <char character="피" id="54588" x="534" y="70" width="158" height="24" xoffset="0" yoffset="0" padding="0" xadvance="158" page="0" chnl="0"/>
 <char character="=" id="61" x="143" y="38" width="61" height="30" xoffset="0" yoffset="0" padding="0" xadvance="61" page="0" chnl="0"/>
-<char character="}" id="125" x="167" y="195" width="60" height="31" xoffset="0" yoffset="0" padding="0" xadvance="60" page="0" chnl="0"/>
 <char character="픽" id="54589" x="551" y="34" width="148" height="31" xoffset="0" yoffset="0" padding="0" xadvance="148" page="0" chnl="0"/>
 <char character="&gt;" id="62" x="62" y="46" width="58" height="35" xoffset="0" yoffset="0" padding="0" xadvance="58" page="0" chnl="0"/>
-<char character="~" id="126" x="320" y="112" width="32" height="32" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
 <char character="?" id="63" x="122" y="71" width="68" height="9" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
+<char character="@" id="64" x="572" y="278" width="197" height="20" xoffset="0" yoffset="0" padding="0" xadvance="197" page="0" chnl="0"/>
+<char character="후" id="54980" x="473" y="73" width="40" height="96" xoffset="0" yoffset="0" padding="0" xadvance="40" page="0" chnl="0"/>
+<char character="削" id="21066" x="352" y="165" width="21" height="20" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
+<char character="멋" id="47691" x="332" y="229" width="257" height="43" xoffset="0" yoffset="0" padding="0" xadvance="257" page="0" chnl="0"/>
+<char character="쳐" id="52432" x="784" y="3" width="24" height="99" xoffset="0" yoffset="0" padding="0" xadvance="24" page="0" chnl="0"/>
+<char character="확" id="54869" x="355" y="147" width="15" height="15" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
+<char character="著" id="33879" x="610" y="326" width="98" height="35" xoffset="0" yoffset="0" padding="0" xadvance="98" page="0" chnl="0"/>
+<char character="하" id="54616" x="551" y="3" width="148" height="31" xoffset="0" yoffset="0" padding="0" xadvance="148" page="0" chnl="0"/>
+<char character="Z" id="90" x="648" y="228" width="32" height="32" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
+<char character="[" id="91" x="120" y="47" width="19" height="20" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
+<char character="\" id="92" x="1" y="36" width="131" height="9" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
+<char character="]" id="93" x="1" y="83" width="165" height="196" xoffset="0" yoffset="0" padding="0" xadvance="165" page="0" chnl="0"/>
+<char character="^" id="94" x="167" y="228" width="162" height="41" xoffset="0" yoffset="0" padding="0" xadvance="162" page="0" chnl="0"/>
+<char character="_" id="95" x="394" y="73" width="59" height="27" xoffset="0" yoffset="0" padding="0" xadvance="59" page="0" chnl="0"/>
+<char character="`" id="96" x="210" y="277" width="141" height="16" xoffset="0" yoffset="0" padding="0" xadvance="141" page="0" chnl="0"/>
+<char character="헤" id="54756" x="534" y="104" width="206" height="122" xoffset="0" yoffset="0" padding="0" xadvance="206" page="0" chnl="0"/>
+<char character="쳤" id="52452" x="713" y="3" width="70" height="99" xoffset="0" yoffset="0" padding="0" xadvance="70" page="0" chnl="0"/>
+<char character="황" id="54889" x="398" y="102" width="52" height="8" xoffset="0" yoffset="0" padding="0" xadvance="52" page="0" chnl="0"/>
+<char character="穴" id="31348" x="411" y="173" width="25" height="16" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
+<char character="究" id="31350" x="376" y="173" width="25" height="16" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
+<char character="{" id="123" x="2" y="296" width="359" height="85" xoffset="0" yoffset="0" padding="0" xadvance="359" page="0" chnl="0"/>
+<char character="闻" id="38395" x="148" y="383" width="144" height="22" xoffset="0" yoffset="0" padding="0" xadvance="144" page="0" chnl="0"/>
+<char character="|" id="124" x="0" y="0" width="360" height="35" xoffset="0" yoffset="0" padding="0" xadvance="360" page="0" chnl="0"/>
+<char character="}" id="125" x="167" y="195" width="60" height="31" xoffset="0" yoffset="0" padding="0" xadvance="60" page="0" chnl="0"/>
+<char character="~" id="126" x="320" y="112" width="32" height="32" xoffset="0" yoffset="0" padding="0" xadvance="32" page="0" chnl="0"/>
 </chars>
 </font>

@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-318.png"/>
 </pages>
-<chars count="77">
+<chars count="80">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="洋" id="27915" x="231" y="472" width="249" height="61" xoffset="0" yoffset="0" padding="0" xadvance="249" page="0" chnl="0"/>
 <char character="洛" id="27931" x="9" y="534" width="216" height="61" xoffset="0" yoffset="0" padding="0" xadvance="216" page="0" chnl="0"/>
@@ -36,14 +36,17 @@
 <char character="8" id="56" x="375" y="404" width="122" height="38" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
 <char character="9" id="57" x="1" y="299" width="114" height="37" xoffset="0" yoffset="0" padding="0" xadvance="114" page="0" chnl="0"/>
 <char character=":" id="58" x="3" y="122" width="133" height="64" xoffset="0" yoffset="0" padding="0" xadvance="133" page="0" chnl="0"/>
+<char character="센" id="49468" x="296" y="607" width="133" height="31" xoffset="0" yoffset="0" padding="0" xadvance="133" page="0" chnl="0"/>
 <char character="=" id="61" x="358" y="348" width="42" height="42" xoffset="0" yoffset="0" padding="0" xadvance="42" page="0" chnl="0"/>
 <char character="&gt;" id="62" x="404" y="71" width="39" height="30" xoffset="0" yoffset="0" padding="0" xadvance="39" page="0" chnl="0"/>
 <char character="?" id="63" x="368" y="103" width="78" height="14" xoffset="0" yoffset="0" padding="0" xadvance="78" page="0" chnl="0"/>
 <char character="@" id="64" x="299" y="350" width="56" height="47" xoffset="0" yoffset="0" padding="0" xadvance="56" page="0" chnl="0"/>
+<char character="셀" id="49472" x="198" y="608" width="88" height="27" xoffset="0" yoffset="0" padding="0" xadvance="88" page="0" chnl="0"/>
 <char character="A" id="65" x="136" y="312" width="131" height="31" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
 <char character="B" id="66" x="289" y="315" width="131" height="31" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
 <char character="F" id="70" x="8" y="404" width="131" height="31" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
 <char character="G" id="71" x="8" y="438" width="131" height="31" xoffset="0" yoffset="0" padding="0" xadvance="131" page="0" chnl="0"/>
+<char character="셈" id="49480" x="6" y="602" width="180" height="37" xoffset="0" yoffset="0" padding="0" xadvance="180" page="0" chnl="0"/>
 <char character="M" id="77" x="232" y="542" width="213" height="37" xoffset="0" yoffset="0" padding="0" xadvance="213" page="0" chnl="0"/>
 <char character="[" id="91" x="194" y="174" width="38" height="38" xoffset="0" yoffset="0" padding="0" xadvance="38" page="0" chnl="0"/>
 <char character="\" id="92" x="54" y="10" width="38" height="38" xoffset="0" yoffset="0" padding="0" xadvance="38" page="0" chnl="0"/>

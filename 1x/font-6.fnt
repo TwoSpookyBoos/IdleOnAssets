@@ -5,7 +5,7 @@
 <pages>
 <page id="0" file="font-6.png"/>
 </pages>
-<chars count="78">
+<chars count="83">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="蒂" id="33922" x="149" y="795" width="37" height="15" xoffset="0" yoffset="0" padding="0" xadvance="37" page="0" chnl="0"/>
 <char character="逊" id="36874" x="227" y="793" width="45" height="48" xoffset="0" yoffset="0" padding="0" xadvance="45" page="0" chnl="0"/>
@@ -42,13 +42,18 @@
 <char character="=" id="61" x="3" y="120" width="73" height="33" xoffset="0" yoffset="0" padding="0" xadvance="73" page="0" chnl="0"/>
 <char character="&gt;" id="62" x="127" y="125" width="14" height="20" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="?" id="63" x="5" y="387" width="198" height="86" xoffset="0" yoffset="0" padding="0" xadvance="198" page="0" chnl="0"/>
-<char character="@" id="64" x="286" y="7" width="86" height="35" xoffset="0" yoffset="0" padding="0" xadvance="86" page="0" chnl="0"/>
+<char character="@" id="64" x="303" y="98" width="86" height="35" xoffset="0" yoffset="0" padding="0" xadvance="86" page="0" chnl="0"/>
 <char character="A" id="65" x="25" y="670" width="324" height="21" xoffset="0" yoffset="0" padding="0" xadvance="324" page="0" chnl="0"/>
 <char character="B" id="66" x="25" y="694" width="324" height="21" xoffset="0" yoffset="0" padding="0" xadvance="324" page="0" chnl="0"/>
 <char character="C" id="67" x="25" y="719" width="324" height="21" xoffset="0" yoffset="0" padding="0" xadvance="324" page="0" chnl="0"/>
 <char character="D" id="68" x="25" y="744" width="324" height="21" xoffset="0" yoffset="0" padding="0" xadvance="324" page="0" chnl="0"/>
 <char character="E" id="69" x="25" y="769" width="324" height="21" xoffset="0" yoffset="0" padding="0" xadvance="324" page="0" chnl="0"/>
+<char character="텅" id="53573" x="289" y="794" width="106" height="21" xoffset="0" yoffset="0" padding="0" xadvance="106" page="0" chnl="0"/>
+<char character="엊" id="50634" x="291" y="921" width="24" height="21" xoffset="0" yoffset="0" padding="0" xadvance="24" page="0" chnl="0"/>
+<char character="엌" id="50636" x="3" y="958" width="285" height="35" xoffset="0" yoffset="0" padding="0" xadvance="285" page="0" chnl="0"/>
 <char character="児" id="20816" x="295" y="576" width="50" height="45" xoffset="0" yoffset="0" padding="0" xadvance="50" page="0" chnl="0"/>
+<char character="에" id="50640" x="3" y="922" width="287" height="35" xoffset="0" yoffset="0" padding="0" xadvance="287" page="0" chnl="0"/>
+<char character="P" id="80" x="274" y="2" width="122" height="42" xoffset="0" yoffset="0" padding="0" xadvance="122" page="0" chnl="0"/>
 <char character="S" id="83" x="328" y="136" width="71" height="42" xoffset="0" yoffset="0" padding="0" xadvance="71" page="0" chnl="0"/>
 <char character="T" id="84" x="5" y="475" width="144" height="65" xoffset="0" yoffset="0" padding="0" xadvance="144" page="0" chnl="0"/>
 <char character="U" id="85" x="207" y="461" width="106" height="21" xoffset="0" yoffset="0" padding="0" xadvance="106" page="0" chnl="0"/>

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <font>
 <info zoom="2.0" bg="-12237499" face="0" size="16" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0"/>
-<common lineHeight="218" base="26" scaleW="512" scaleH="1024" pages="1" packed="0"/>
+<common lineHeight="218" base="26" scaleW="512" scaleH="2048" pages="1" packed="0"/>
 <pages>
 <page id="0" file="font-628.png"/>
 </pages>
-<chars count="123">
+<chars count="132">
 <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="3" page="0" chnl="0"/>
 <char character="焚" id="28954" x="404" y="189" width="81" height="25" xoffset="0" yoffset="0" padding="0" xadvance="81" page="0" chnl="0"/>
+<char character="脚" id="33050" x="266" y="822" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
 <char character="!" id="33" x="2" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="&quot;" id="34" x="273" y="319" width="21" height="21" xoffset="0" yoffset="0" padding="0" xadvance="21" page="0" chnl="0"/>
 <char character="#" id="35" x="39" y="720" width="17" height="18" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
@@ -16,9 +17,10 @@
 <char character="&amp;" id="38" x="74" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="&apos;" id="39" x="443" y="263" width="15" height="27" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="大" id="22823" x="454" y="2" width="19" height="20" xoffset="0" yoffset="0" padding="0" xadvance="19" page="0" chnl="0"/>
-<char character="(" id="40" x="3" y="600" width="358" height="45" xoffset="0" yoffset="0" padding="0" xadvance="358" page="0" chnl="0"/>
+<char character="(" id="40" x="3" y="600" width="374" height="45" xoffset="0" yoffset="0" padding="0" xadvance="374" page="0" chnl="0"/>
 <char character=")" id="41" x="92" y="720" width="17" height="18" xoffset="0" yoffset="0" padding="0" xadvance="17" page="0" chnl="0"/>
-<char character="*" id="42" x="3" y="646" width="358" height="41" xoffset="0" yoffset="0" padding="0" xadvance="358" page="0" chnl="0"/>
+<char character="*" id="42" x="3" y="646" width="374" height="41" xoffset="0" yoffset="0" padding="0" xadvance="374" page="0" chnl="0"/>
+<char character="猪" id="29482" x="48" y="1023" width="64" height="28" xoffset="0" yoffset="0" padding="0" xadvance="64" page="0" chnl="0"/>
 <char character="+" id="43" x="8" y="750" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
 <char character="紫" id="32043" x="102" y="969" width="25" height="25" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
 <char character="," id="44" x="473" y="263" width="12" height="27" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
@@ -31,7 +33,7 @@
 <char character="3" id="51" x="60" y="80" width="35" height="33" xoffset="0" yoffset="0" padding="0" xadvance="35" page="0" chnl="0"/>
 <char character="4" id="52" x="97" y="81" width="35" height="33" xoffset="0" yoffset="0" padding="0" xadvance="35" page="0" chnl="0"/>
 <char character="5" id="53" x="133" y="81" width="35" height="33" xoffset="0" yoffset="0" padding="0" xadvance="35" page="0" chnl="0"/>
-<char character="6" id="54" x="63" y="115" width="2" height="2" xoffset="0" yoffset="0" padding="0" xadvance="2" page="0" chnl="0"/>
+<char character="6" id="54" x="464" y="30" width="39" height="33" xoffset="0" yoffset="0" padding="0" xadvance="39" page="0" chnl="0"/>
 <char character="父" id="29238" x="490" y="292" width="20" height="10" xoffset="0" yoffset="0" padding="0" xadvance="20" page="0" chnl="0"/>
 <char character="7" id="55" x="66" y="115" width="2" height="2" xoffset="0" yoffset="0" padding="0" xadvance="2" page="0" chnl="0"/>
 <char character="8" id="56" x="69" y="115" width="2" height="2" xoffset="0" yoffset="0" padding="0" xadvance="2" page="0" chnl="0"/>
@@ -77,10 +79,12 @@
 <char character="^" id="94" x="277" y="296" width="11" height="8" xoffset="0" yoffset="0" padding="0" xadvance="11" page="0" chnl="0"/>
 <char character="_" id="95" x="185" y="831" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
 <char character="`" id="96" x="181" y="750" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
+<char character="애" id="50528" x="329" y="925" width="142" height="44" xoffset="0" yoffset="0" padding="0" xadvance="142" page="0" chnl="0"/>
 <char character="a" id="97" x="1" y="1" width="121" height="45" xoffset="0" yoffset="0" padding="0" xadvance="121" page="0" chnl="0"/>
 <char character="b" id="98" x="1" y="47" width="59" height="56" xoffset="0" yoffset="0" padding="0" xadvance="59" page="0" chnl="0"/>
 <char character="c" id="99" x="5" y="105" width="51" height="16" xoffset="0" yoffset="0" padding="0" xadvance="51" page="0" chnl="0"/>
 <char character="d" id="100" x="6" y="121" width="51" height="16" xoffset="0" yoffset="0" padding="0" xadvance="51" page="0" chnl="0"/>
+<char character="앤" id="50532" x="350" y="846" width="140" height="42" xoffset="0" yoffset="0" padding="0" xadvance="140" page="0" chnl="0"/>
 <char character="e" id="101" x="124" y="118" width="124" height="218" xoffset="0" yoffset="0" padding="0" xadvance="124" page="0" chnl="0"/>
 <char character="f" id="102" x="172" y="50" width="57" height="54" xoffset="0" yoffset="0" padding="0" xadvance="57" page="0" chnl="0"/>
 <char character="g" id="103" x="248" y="1" width="67" height="64" xoffset="0" yoffset="0" padding="0" xadvance="67" page="0" chnl="0"/>
@@ -93,6 +97,7 @@
 <char character="n" id="110" x="71" y="118" width="14" height="17" xoffset="0" yoffset="0" padding="0" xadvance="14" page="0" chnl="0"/>
 <char character="o" id="111" x="1" y="322" width="124" height="202" xoffset="0" yoffset="0" padding="0" xadvance="124" page="0" chnl="0"/>
 <char character="p" id="112" x="86" y="117" width="12" height="14" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
+<char character="앰" id="50544" x="350" y="796" width="140" height="48" xoffset="0" yoffset="0" padding="0" xadvance="140" page="0" chnl="0"/>
 <char character="q" id="113" x="98" y="117" width="12" height="14" xoffset="0" yoffset="0" padding="0" xadvance="12" page="0" chnl="0"/>
 <char character="r" id="114" x="127" y="336" width="18" height="19" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="s" id="115" x="146" y="336" width="18" height="19" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
@@ -108,7 +113,7 @@
 <char character="}" id="125" x="428" y="263" width="15" height="27" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="~" id="126" x="94" y="750" width="68" height="63" xoffset="0" yoffset="0" padding="0" xadvance="68" page="0" chnl="0"/>
 <char character="板" id="26495" x="162" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
-<char character="极" id="26497" x="144" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
+<char character="极" id="26497" x="144" y="720" width="15" height="18" xoffset="0" yoffset="0" padding="0" xadvance="15" page="0" chnl="0"/>
 <char character="构" id="26500" x="126" y="720" width="18" height="18" xoffset="0" yoffset="0" padding="0" xadvance="18" page="0" chnl="0"/>
 <char character="疑" id="30097" x="410" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="£" id="163" x="262" y="900" width="16" height="14" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
@@ -117,15 +122,19 @@
 <char character="咩" id="21673" x="2" y="969" width="95" height="14" xoffset="0" yoffset="0" padding="0" xadvance="95" page="0" chnl="0"/>
 <char character="€" id="8364" x="2" y="896" width="258" height="22" xoffset="0" yoffset="0" padding="0" xadvance="258" page="0" chnl="0"/>
 <char character="疲" id="30130" x="373" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="岸" id="23736" x="349" y="971" width="145" height="126" xoffset="0" yoffset="0" padding="0" xadvance="145" page="0" chnl="0"/>
 <char character="₹" id="8377" x="295" y="718" width="26" height="20" xoffset="0" yoffset="0" padding="0" xadvance="26" page="0" chnl="0"/>
 <char character="疾" id="30142" x="427" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
-<char character="评" id="35780" x="296" y="889" width="189" height="26" xoffset="0" yoffset="0" padding="0" xadvance="189" page="0" chnl="0"/>
+<char character="评" id="35780" x="296" y="897" width="189" height="26" xoffset="0" yoffset="0" padding="0" xadvance="189" page="0" chnl="0"/>
 <char character="诅" id="35781" x="353" y="705" width="152" height="38" xoffset="0" yoffset="0" padding="0" xadvance="152" page="0" chnl="0"/>
 <char character="病" id="30149" x="444" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="盒" id="30418" x="1" y="1023" width="45" height="45" xoffset="0" yoffset="0" padding="0" xadvance="45" page="0" chnl="0"/>
+<char character="盔" id="30420" x="474" y="2" width="13" height="15" xoffset="0" yoffset="0" padding="0" xadvance="13" page="0" chnl="0"/>
 <char character="痕" id="30165" x="392" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
 <char character="糕" id="31957" x="156" y="969" width="25" height="25" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
 <char character="糖" id="31958" x="131" y="969" width="25" height="25" xoffset="0" yoffset="0" padding="0" xadvance="25" page="0" chnl="0"/>
 <char character="痛" id="30171" x="355" y="777" width="16" height="18" xoffset="0" yoffset="0" padding="0" xadvance="16" page="0" chnl="0"/>
+<char character="닮" id="45806" x="1" y="995" width="346" height="27" xoffset="0" yoffset="0" padding="0" xadvance="346" page="0" chnl="0"/>
 <char character="競" id="31478" x="2" y="896" width="169" height="22" xoffset="0" yoffset="0" padding="0" xadvance="169" page="0" chnl="0"/>
 <char character="迷" id="36855" x="302" y="465" width="101" height="25" xoffset="0" yoffset="0" padding="0" xadvance="101" page="0" chnl="0"/>
 <char character="烹" id="28921" x="404" y="216" width="81" height="25" xoffset="0" yoffset="0" padding="0" xadvance="81" page="0" chnl="0"/>
